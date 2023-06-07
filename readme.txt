@@ -3,6 +3,10 @@ Git is free software.
 funny
 happy
 daybyday
+<<<<<<< HEAD
 master:modify
 dev:modify
 first commit
+=======
+second commit
+>>>>>>> dev
